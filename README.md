@@ -2,7 +2,7 @@
 
 ### Install:
  * Install requirements using `pip install -r requirements.txt`
- * Clone git repo in the right folder: `git clone https://github.com/chattermill/cm-redactor-cli.git`
+ * Clone git repo in the right folder: `git clone https://github.com/chattermill/cm-redactor-cli-python.git`
 
 ### Run:
 To run in the command line:
