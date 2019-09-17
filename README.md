@@ -1,4 +1,7 @@
-# cm-redactor-cli
+# Chattermill Standalone Data Redaction Tool
+
+### How it works:
+The script runs a series of Regular Expressions to remove certain patterns from text. You can customise the list of Regular Expressions to run. You can also use as Python module for more custom workflows.
 
 ### Install:
  * Install requirements using `pip install -r requirements.txt`
